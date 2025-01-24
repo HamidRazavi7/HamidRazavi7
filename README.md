@@ -47,9 +47,15 @@ I am a passionate **Data Scientist** with a strong foundation in **machine learn
 ---
 
 ### 🎯 Experience Highlights
-- **Customer Support Engineer @ ASML**
+- **Project Manager @ ASML**
   - Designed career pathways and optimized engineering workflows for better efficiency.
   - Analyzed worldwide bottlenecks formulating strategies to drive operational improvements in customer fabs.
+  - Led escalation efforts collaborating with 26 competency teams to address complex technical challenges and ensure the timely return of Intel's lithography machines to production.
+ 
+- **Customer Support Engineer @ ASML**
+  - Managed and optimized hardware and software configurations for high-tech lithography systems, ensuring peak performance and reliability.
+  - Partnered with cross-functional teams to streamline upgrade processes, reducing cycle time by 10% and enhancing customer satisfaction.
+  - Worked unsupervised on project execution, track equipment performance, and deliver technical reports to ensure high-impact outcomes for global contexts.
   
 - **Research & Development Engineer @ Kyocera**
   - Spearheaded the development of high-performance **Thermal Interface Material**, improving product performance by **20%**.
