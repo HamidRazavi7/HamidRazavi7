@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/j4jy6kv/1733334622354.jpg" alt="Hamid Razavi" width="400" style="border-radius: 50%; margin-bottom: 20px;">
 </div>
   
-  # Hi, I'm Hamid Razavi 👋
+  # Hi, I'm Hamidreza Razavi 👋
 
 ### 🚀 About Me
 I am a passionate **Data Scientist** with a strong foundation in **machine learning**, **data analysis**, and over five years of engineering experience. I hold a master's degree in **Data Science** from NJIT and bachelor's degrees in **NanoEngineering** and **Political Science** from UC San Diego. My goal is to leverage **AI** and **innovative technologies** to develop impactful solutions for diverse global challenges across industries and domains.
