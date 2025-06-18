@@ -15,8 +15,11 @@ I am a passionate **Data Scientist** with a strong foundation in **machine learn
 ---
 
 ### 🎓 Education
+- **Ph.D. in Computer Science / Materials Engineering** | KU Leuven, Leuven, Belgium  
+  *February 2025 – Present*
+
 - **M.S. in Data Science** | New Jersey Institute of Technology  
-  **GPA**: 3.67  
+  **GPA**: 3.67/4.00 
   **Relevant Courses**: Master’s Thesis, Deep Learning, Machine Learning, Big Data, R Programming, Statistics, Relational Database Design, Web Systems Development  
   *January 2022 – December 2024*
 
