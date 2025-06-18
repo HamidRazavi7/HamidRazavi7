@@ -48,7 +48,7 @@ I am a passionate **Data Scientist** with a strong foundation in **machine learn
 ---
 
 ### 🎯 Experience Highlights
-- **Project Manager @ ASML**
+- **Project Manager / Upgrades Engineer @ ASML**
   - Designed career pathways and optimized engineering workflows for better efficiency.
   - Analyzed worldwide bottlenecks formulating strategies to drive operational improvements in customer fabs.
   - Led escalation efforts collaborating with 26 competency teams to address complex technical challenges and ensure the timely return of Intel's lithography machines to production.
