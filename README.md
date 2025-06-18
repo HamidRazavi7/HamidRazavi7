@@ -72,9 +72,9 @@ I am a passionate **Data Scientist** with a strong foundation in **machine learn
 ### 📈 Let’s Collaborate!
 I’m always open to new opportunities and collaborations. Whether it’s for an innovative project, cutting-edge research, or a data-driven challenge—feel free to connect!
 
-🌍 **Location**: United States  
-📫 **Email**: hr283@njit.edu  
-🔗 **LinkedIn**: [Hamid Razavi](https://www.linkedin.com/in/hamid-razavi-07256833a)
+🌍 **Location**: Netherlands  
+📫 **Email**: hamidreza.razavi@kuleuven.be 
+🔗 **LinkedIn**: [Hamid Razavi](www.linkedin.com/in/hamidreza-razavi-07256833a)
 
 ---
 
