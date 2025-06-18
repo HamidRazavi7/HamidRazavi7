@@ -5,7 +5,7 @@
   # Hi, I'm Hamidreza Razavi 👋
 
 ### 🚀 About Me
-I am a passionate **Data Scientist** with a strong foundation in **machine learning**, **data analysis**, and over five years of engineering experience. I hold a master's degree in **Data Science** from NJIT and bachelor's degrees in **NanoEngineering** and **Political Science** from UC San Diego. My goal is to leverage **AI** and **innovative technologies** to develop impactful solutions for diverse global challenges across industries and domains.
+I am a passionate **Data Scientist** with a strong foundation in **machine learning**, **data analysis**, and over five years of engineering experience. I am currently working on my Ph.d. at KU Leuven where I implment AI models into the design of advanced materials at the micro and nano scale. I hold a master's degree in **Data Science** from NJIT and bachelor's degrees in **NanoEngineering** and **Political Science** from UC San Diego. My goal is to leverage **AI** and **innovative technologies** to develop impactful solutions for diverse global challenges across industries and domains.
 
 ### 🧠 What Drives Me
 - **Life itself**: It is a divine gift to live and be able to experience life fully.
@@ -20,8 +20,6 @@ I am a passionate **Data Scientist** with a strong foundation in **machine learn
 
 - **M.S. in Data Science** | New Jersey Institute of Technology  
   **GPA**: 3.67/4.00 
-  **Relevant Courses**: Master’s Thesis, Deep Learning, Machine Learning, Big Data, R Programming, Statistics, Relational Database Design, Web Systems Development  
-  *January 2022 – December 2024*
 
 - **B.S. in NanoEngineering** | University of California, San Diego  
   *September 2012 – June 2018*
