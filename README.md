@@ -74,7 +74,7 @@ I’m always open to new opportunities and collaborations. Whether it’s for an
 
 🌍 **Location**: Netherlands  
 📫 **Email**: hamidreza.razavi@kuleuven.be 
-🔗 **LinkedIn**: [Hamid Razavi](www.linkedin.com/in/hamidreza-razavi-07256833a)
+🔗 **LinkedIn**: [Hamid Razavi](https://www.linkedin.com/in/hamidreza-razavi-07256833a/)
 
 ---
 
