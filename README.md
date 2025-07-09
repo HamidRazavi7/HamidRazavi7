@@ -15,7 +15,7 @@ I am a passionate **Data Scientist** with a strong foundation in **machine learn
 ---
 
 ### 🎓 Education
-- **Ph.D. in Computer Science / Materials Engineering** | KU Leuven, Leuven, Belgium  
+- **Ph.D. in Computer Science / Materials Engineering** | KU Leuven  
   *February 2025 – Present*
 
 - **M.S. in Data Science** | New Jersey Institute of Technology  
@@ -72,7 +72,7 @@ I am a passionate **Data Scientist** with a strong foundation in **machine learn
 ### 📈 Let’s Collaborate!
 I’m always open to new opportunities and collaborations. Whether it’s for an innovative project, cutting-edge research, or a data-driven challenge—feel free to connect!
 
-🌍 **Location**: Netherlands  
+🌍 **Location**: United States  
 📫 **Email**: hamidreza.razavi@kuleuven.be 
 🔗 **LinkedIn**: [Hamid Razavi](https://www.linkedin.com/in/hamidreza-razavi-07256833a/)
 
